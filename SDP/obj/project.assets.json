@@ -8608,11 +8608,16 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\SHREEJI\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\Dhruval\\.nuget\\packages\\": {}
+>>>>>>> 55f901838f0ad64465c2999659920501bc6072dd
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\sem 6\\SDP\\Project\\Shop-Management-System\\SDP\\SDP.csproj",
       "projectName": "SDP",
       "projectPath": "D:\\sem 6\\SDP\\Project\\Shop-Management-System\\SDP\\SDP.csproj",
@@ -8621,6 +8626,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SHREEJI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "D:\\Dhruval\\github\\Shop-Management-System\\SDP\\SDP.csproj",
+      "projectName": "SDP",
+      "projectPath": "D:\\Dhruval\\github\\Shop-Management-System\\SDP\\SDP.csproj",
+      "packagesPath": "C:\\Users\\Dhruval\\.nuget\\packages\\",
+      "outputPath": "D:\\Dhruval\\github\\Shop-Management-System\\SDP\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Dhruval\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 55f901838f0ad64465c2999659920501bc6072dd
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8632,7 +8647,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -8644,7 +8658,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
             "target": "Package",
@@ -8689,7 +8702,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+>>>>>>> 55f901838f0ad64465c2999659920501bc6072dd
       }
     }
   }
